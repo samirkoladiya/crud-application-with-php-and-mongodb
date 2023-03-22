@@ -1,6 +1,5 @@
 <?php
 include 'connection.php';
-$tbl_user = $db->tbl_users;
 ?>
 <!DOCTYPE html>
 <html lang="en">
